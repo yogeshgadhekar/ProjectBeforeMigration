@@ -1,0 +1,7 @@
+C:\Users\Yogesh Gadhekar\source\repos\MigraionDemo\MigraionDemo\bin\Debug\MigraionDemo.exe.config
+C:\Users\Yogesh Gadhekar\source\repos\MigraionDemo\MigraionDemo\bin\Debug\MigraionDemo.exe
+C:\Users\Yogesh Gadhekar\source\repos\MigraionDemo\MigraionDemo\bin\Debug\MigraionDemo.pdb
+C:\Users\Yogesh Gadhekar\source\repos\MigraionDemo\MigraionDemo\obj\Debug\MigraionDemo.csprojAssemblyReference.cache
+C:\Users\Yogesh Gadhekar\source\repos\MigraionDemo\MigraionDemo\obj\Debug\MigraionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yogesh Gadhekar\source\repos\MigraionDemo\MigraionDemo\obj\Debug\MigraionDemo.exe
+C:\Users\Yogesh Gadhekar\source\repos\MigraionDemo\MigraionDemo\obj\Debug\MigraionDemo.pdb
